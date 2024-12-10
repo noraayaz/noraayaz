@@ -1,6 +1,6 @@
 👋 Hi, I'm Nora!
 
-🎓 I am currently pursuing dual academic programs: **Computer Science at Uppsala University** and **Data Engineering at Nackademin YH**, with a graduation target of May 2025.
+🎓 I am currently pursuing dual academic programs: **Computer Science at Uppsala University** and **Data Engineering at Nackademin YH**, with a graduation target of May 2025. I have successfully completed the theoretical portion of my Data Engineering program at Nackademin with the highest grades (VG in all courses).
 
 💻 My academic journey has allowed me to work on exciting projects, including:
 - Building an **ETL pipeline** using **Apache Spark** and **MongoDB** to process NYC taxi data, incorporating advanced metrics like trip segmentation and tip ratios.
